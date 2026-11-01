@@ -18,10 +18,10 @@ Trained the model for 10 epochs and used callbacks such as Early Stopping and Re
 # Results
 The model achieved approximately:
 
-95% Validation Accuracy
-86% Test Accuracy
-98% Recall for Pneumonia
-64% Recall for Normal cases
+- 95% Validation Accuracy
+- 86% Test Accuracy
+- 98% Recall for Pneumonia
+- 64% Recall for Normal cases
 On the test set of 624 images, the model correctly classified 534 images. It detected 384 out of 390 Pneumonia cases, resulting in a low number of missed pneumonia cases.
 
 # Conclusion
