@@ -30,12 +30,12 @@ The results demonstrate that a custom CNN can effectively learn visual patterns 
 The project also highlights the importance of improving the classification of Normal X-rays to reduce false positives. Overall, the project demonstrates the potential of deep learning to support radiologists and reduce diagnostic delays.
 
 # Technologies
-Python
-TensorFlow / Keras
-Convolutional Neural Networks (CNN)
-Deep Learning
-ImageDataGenerator
-Data Augmentation
-Matplotlib
-Seaborn
-Scikit-learn
+- Python
+- TensorFlow / Keras
+- Convolutional Neural Networks (CNN)
+- Deep Learning
+- ImageDataGenerator
+- Data Augmentation
+- Matplotlib
+- Seaborn
+- Scikit-learn
